@@ -1,0 +1,1 @@
+celery -A celeryworker beat -l info
